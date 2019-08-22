@@ -1,4 +1,6 @@
-bin
-.settings
-.classpath
-.project
+
+/bin/
+/ig/
+/.classpath
+/.project
+/.settings/
