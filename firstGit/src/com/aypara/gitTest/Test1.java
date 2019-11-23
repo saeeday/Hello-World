@@ -2,7 +2,9 @@ package com.aypara.gitTest;
 
 public class Test1 {
 	private int age;
-	public Test1(int a){
-		age=a;
+	private String name; 
+	public Test1(int a,String name){
+		this.age=a;
+		this.name=name;
 	}
 }
